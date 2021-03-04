@@ -8,6 +8,7 @@ namespace MVCActionMethods.Controllers
 {
     public class HomeController : Controller
     {
+    //this is an index method
         public ActionResult Index()
         {
             return View();
