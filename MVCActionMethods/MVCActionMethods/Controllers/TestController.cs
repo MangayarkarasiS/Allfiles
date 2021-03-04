@@ -13,5 +13,9 @@ namespace MVCActionMethods.Controllers
         {
             return View();
         }
+        public ActionResult create()
+        {
+            return View();
+        }
     }
 }
