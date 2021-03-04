@@ -13,10 +13,6 @@ namespace MVCActionMethods.Controllers
         {
             return View();
         }
-        public ActionResult Index1()
-        {
-            return View();
-        }
         //returns viewresult
         public ViewResult VIndex()
         {
